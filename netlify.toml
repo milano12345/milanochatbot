@@ -1,8 +1,7 @@
 [[build]]
-base: /opt/build/repo
-command: npm run build
-commandOrigin: config
-publish: /opt/build/repo
+base = "/"
+publish = "/build/"
+command = "npm run build"
 
 [[redirects]]
   from = "/*"
