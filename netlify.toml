@@ -1,7 +1,7 @@
 [build]
   command = "npm run build"
-  publish="milanochatbot/build"
-  base = "milanochatbot/src"
+  publish="/"
+  base = "/"
 
 [[redirects]]
   from = "/*"
