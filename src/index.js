@@ -1,4 +1,4 @@
-import Chatbot from "./components/ChatBot/Chatbot";
+import Chatbot from "./components/ChatBot/Chatbot.jsx";
 import {
   createChatBotMessage,
   createClientMessage,
