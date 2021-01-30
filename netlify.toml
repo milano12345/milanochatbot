@@ -1,5 +1,5 @@
 [build]
-base = "/"
+base = "build/index.js"
 publish = "/build/"
 command = "npm run build"
 
